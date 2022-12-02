@@ -1,0 +1,6 @@
+This is the text file for lab 12 file away.
+It should print out:
+* The name of this file
+* The number of lines in this file
+* The number of words in this file
+* The number of characters in this file
